@@ -17,5 +17,3 @@ export class AppComponent {
     console.log('Selected user with id: ' + id);
   }
 }
-
-//34. Working with Outputs & Emitting Data
